@@ -1,4 +1,4 @@
-// 1. Define an Interface to describe the shape of an object::
+// 1. Define an Interface to describe the shape of an object description
 interface User {
   name: string;
   id: number;
