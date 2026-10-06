@@ -23,7 +23,7 @@ class FrameworkError extends Error {
 }
 
 
-let browser = 'naveen';
+let browser = 'chrome';
 switch (browser) {
     case 'chrome':
         console.log('open chrome');
@@ -35,3 +35,4 @@ switch (browser) {
 }
 
 console.log('entering the app url');
+

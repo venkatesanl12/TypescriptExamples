@@ -31,7 +31,9 @@ let u1: User = {
 }
 
 console.log(u1);
+console.log('-----');
 u1.coding();
+console.log('-----');
 console.log(u1.calcSal());
 
 let u2 = {

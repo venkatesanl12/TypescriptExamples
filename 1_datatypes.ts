@@ -88,7 +88,7 @@ let newUser = {
     city: 'Bangalore'
 };
 console.log(newUser.name);
-
+console.log(newUser);
 
 //custom type for the object: using type alias
 type userType = { readonly name: string, salary: number, isActive: boolean, city: string };

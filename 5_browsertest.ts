@@ -1,4 +1,4 @@
-import { BROWSERS } from "./enumtest";
+import { BROWSERS } from "./4_enumtest";
 
 
 let browserName = 'chrome';//coming from csv/config file
